@@ -14,6 +14,7 @@ Plugin 'rust-lang/rust.vim'
 call vundle#end()
 filetype plugin indent on
 
+let g:rustfmt_autosave = 1
 
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
