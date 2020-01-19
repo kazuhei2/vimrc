@@ -1,3 +1,16 @@
+set nocompatible
+filetype off
+set rtp+=~/.vim/bundle/Vundle.vim
+call vundle#begin()
+
+Plugin 'VundleVim/Vundle.vim'
+
+
+call vundle#end()
+filetype plugin indent on
+
+
+
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Important:
 "       This requires that you install https://github.com/amix/vimrc !
