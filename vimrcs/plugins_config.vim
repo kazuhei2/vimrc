@@ -9,6 +9,8 @@ Plugin 'valloric/youcompleteme'
 
 Plugin 'w0rp/ale'
 
+Plugin 'rust-lang/rust.vim'
+
 call vundle#end()
 filetype plugin indent on
 
