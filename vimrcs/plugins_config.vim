@@ -7,6 +7,8 @@ Plugin 'VundleVim/Vundle.vim'
 
 Plugin 'valloric/youcompleteme'
 
+Plugin 'w0rp/ale'
+
 call vundle#end()
 filetype plugin indent on
 
