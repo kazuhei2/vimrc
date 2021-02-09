@@ -11,7 +11,7 @@ Plugin 'w0rp/ale'
 
 Plugin 'rust-lang/rust.vim'
 
-Plugin 'posva/vim-vue'
+Plugin 'leafoftree/vim-vue-plugin'
 
 call vundle#end()
 filetype plugin indent on
