@@ -7,5 +7,3 @@ augroup fileTypeIndent
     autocmd BufRead,BufNewFile *.json setlocal tabstop=2 shiftwidth=2
 augroup END
 
-set number
-colorscheme torte
