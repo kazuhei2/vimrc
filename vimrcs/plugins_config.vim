@@ -13,5 +13,7 @@ Plugin 'rust-lang/rust.vim'
 
 Plugin 'leafoftree/vim-vue-plugin'
 
+Plugin 'cohama/lexima.vim'
+
 call vundle#end()
 filetype plugin indent on
